@@ -1,0 +1,22 @@
+﻿<Mappings><Entry OldName="&lt;PrivateImplementationDetails&gt;.5868F684DF70423DDA2F2986321A7DD3B3CF8911" NewName="A.c935dae5d59906007927f633fdf951039.cb41404c3c00380508b0eeae80d19fbb2" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;+__StaticArrayInitTypeSize=12" NewName="A.c935dae5d59906007927f633fdf951039+c70f709c2a0a3ed8d399cce189bacb89d" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;" NewName="A.c935dae5d59906007927f633fdf951039" />
+<Assembly Name="Crypto"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Crypto.Program" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="Main" Variables="args;ex;" ParamCnt="1" />
+<Method Token="100663300" Name="Test" Variables="" ParamCnt="0" />
+<Type Token="33554436" Name="Crypto.TestState" />
+<Field Token="67108865" Name="value__" />
+<Field Token="67108866" Name="Error" />
+<Field Token="67108867" Name="Unknown" />
+<Field Token="67108868" Name="NothingToDo" />
+<Field Token="67108869" Name="Success" />
+<Field Token="67108870" Name="Dummy" />
+<Type Token="33554438" Name="&lt;PrivateImplementationDetails&gt;" />
+<Field Token="67108872" Name="5868F684DF70423DDA2F2986321A7DD3B3CF8911" />
+<Type Token="33554439" Name="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=12" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

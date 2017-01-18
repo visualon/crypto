@@ -1,0 +1,18 @@
+<Project ProjectFileVersion="4" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" DisabledFromMSBuild="False" ID="{6228f6a1-1734-40e1-a26c-f90261a11336}">
+  <SearchDirectories />
+  <OutputSettings OutputPath=".\bin\ReleaseObfuscate" MainAssemblyPath="" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" OverwriteInputFiles="False" BuildID="" MapFilesLocation="" FullParamNamesInMappingFile="False">
+    <AdditionalAssemblies />
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\Crypto_ReleaseObfuscate_AnyCPU_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" DeleteDownloadedReportsFromServer="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" SymbolPrefix="" SymbolSuffix="" FakeFields="" FakeTypes="" FakeMethods="" EncryptionActive="True" CompressionActive="True" RemoveAccessedThroughPropertyAttribute="False" UseSaltForCryptographicRenaming="False" />
+  <ObfuscationRules />
+  <InclusionExclusionRules />
+  <Assembly Load="true" Path=".\obj\ReleaseObfuscate\Crypto.exe" XapEntryName="" KeyFilePath=".\Crypto.snk" KeyFileContainsPublicKeyOnly="False" CertFilePath="" TimeStampURL="" Rfc3161TimestampURL="False" SHA256SigningAlgorithm="False" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="" IsWinRTAssembly="False">
+    <ObfuscationSettings EncryptStrings="True" EncryptMethods="False" EncryptConstants="True" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="1" FlowObfuscation="3" CodeMasking="3" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="True" EnableAntiDebugging="True" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="False" ObfuscatePdbFileNames="True" IncludeLocalVariablesInPdbFile="False" Encrypt="False" Compress="False" MSBuild="True" ObfuscatedNamespace="A" RetainNamespace="False" ModuleInitializationMethod="" LicensingMerge="False" RemoveConstants="False" ProcessSatelliteAssemblies="True">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>
