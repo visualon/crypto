@@ -70,6 +70,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Crypto.snk" />
+    <None Include="Crypto_DebugObfuscate_AnyCPU.obproj" />
+    <None Include="Crypto_DebugObfuscate_AnyCPU.obproj.map" />
+    <None Include="Crypto_ReleaseObfuscate_AnyCPU.obproj" />
+    <None Include="Crypto_ReleaseObfuscate_AnyCPU.obproj.map" />
+    <None Include="LICENSE" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
